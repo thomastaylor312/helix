@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(jj diff:*)",
-      "Bash(jj resolve:*)"
+      "Bash(jj resolve:*)",
+      "Bash(jj squash:*)"
     ]
   }
 }

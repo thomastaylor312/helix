@@ -22,7 +22,7 @@ pub mod diagnostics;
 mod document_colors;
 mod document_highlight;
 mod document_links;
-mod inline_completion;
+pub mod inline_completion;
 mod prompt;
 mod signature_help;
 mod snippet;
